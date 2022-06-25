@@ -1,5 +1,6 @@
 {
   "author": "Daniel Ramos",
+  "description": "This project is a test practice for the FreeCodeCamp Backend course",
   "dependencies": {
     "express": "^4.18.1"
   }
