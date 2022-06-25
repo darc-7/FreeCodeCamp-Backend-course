@@ -3,6 +3,7 @@
   "description": "This project is a test practice for the FreeCodeCamp Backend course",
   "keywords":["freecodecamp", "practice", "project", "test"],
   "license": "TEST",
+  "version": "0.1",
   "dependencies": {
     "express": "^4.18.1"
   }
